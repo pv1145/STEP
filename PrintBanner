@@ -1,0 +1,12 @@
+public static void main(String[] args) {
+    // UC2: Printing "OOPS" as ASCII Art (7-line grid)
+    // We use manual print statements for each row
+    
+    System.out.println(" **** **** **** **** ");
+    System.out.println("* * * * * * * ");
+    System.out.println("* * * * * * * ");
+    System.out.println("* * * * **** **** ");
+    System.out.println("* * * * * *");
+    System.out.println("* * * * * *");
+    System.out.println(" **** **** * **** ");
+}
